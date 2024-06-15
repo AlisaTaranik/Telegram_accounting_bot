@@ -10,3 +10,7 @@ venv/
 
 *.db
 checking_database.py
+
+bot/.env
+bot/checking_database.py
+bot/*.db
