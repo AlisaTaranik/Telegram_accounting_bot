@@ -1,0 +1,13 @@
+.gitignore
+
+__pycache__/
+.idea/
+
+.env
+
+.venv
+venv/
+
+*.db
+checking_database.py
+
